@@ -396,15 +396,3 @@ Accuracy: 96.59%
 Joseph Toby
 
 This project was developed as part of an academic Mini NLP Project.
-
-
-### ⚠️ Before you commit
-
-One important correction from your previous screenshot: your uploaded screenshots were named **`.png.png`**. Rename them if you can so they exactly match the README:
-
-```text
-01_dataset.png
-02_dataset_distribution.png
-03_model_performance.png
-04_confusion_matrix.png
-05_new_message_prediction.png
